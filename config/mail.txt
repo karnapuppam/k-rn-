@@ -1,0 +1,50 @@
+From SecurityAlertsDev@contoso.com Thu Aug 24 01:48:56 2017
+Date: Thu, 24 Aug 2017 01:48:56 -0400 (EDT)
+From: SecurityAlertsDev@contoso.com
+To: spadmin@Sailpoint.com
+Message-ID: <ae3c5c64e7d34001bc60f7e7e987b36c@contoso.com>
+Subject: New comments added to work item "Manager Approval - Account Changes
+ for User: Chris Stephens"
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_2_5743474.1503553736309"
+X-Mailer: smptsend
+
+------=_Part_2_5743474.1503553736309
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Comment added to work item "Manager Approval - Account Changes for User: Chris Stephens" by Bob Fields on 8/24/17 1:48:47 AM EDT
+
+--------------------------------------------------------------------------------
+my first comment
+------=_Part_2_5743474.1503553736309--
+
+From SecurityAlertsDev@contoso.com Thu Aug 24 01:58:48 2017
+Date: Thu, 24 Aug 2017 01:58:48 -0400 (EDT)
+From: SecurityAlertsDev@contoso.com
+To: spadmin@Sailpoint.com
+Message-ID: <eac0bdc2cfa344f7b87c6fff1ff719cf@contoso.com>
+Subject: New comments added to work item "Manager Approval - Account Changes
+ for User: Chris Stephens"
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----=_Part_4_9287456.1503554328161"
+X-Mailer: smptsend
+
+------=_Part_4_9287456.1503554328161
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Comment added to work item "Manager Approval - Account Changes for User: Chris Stephens" by Bob Fields on 8/24/17 1:58:44 AM EDT
+
+--------------------------------------------------------------------------------
+my second value
+  
+  
+  <html>
+        <br>
+     <a href="http://localhost:8081/karna/test.jsf">Login page</>
+    
+      </html>
+  
+------=_Part_4_9287456.1503554328161--
+
